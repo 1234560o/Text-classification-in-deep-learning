@@ -1,12 +1,32 @@
 # Text-classification-in-deep-learning
 解析近年来深度学习中的文本分类问题的主要论文和模型：
 
-* TextCNN
-* TextRNN
-* ResCNN
-* TextRCNN
-* TextHAN
-* transformer
-* 胶囊网络
 * fasttext
 
+* TextCNN
+
+* TextRNN
+
+* ResCNN
+
+* TextRCNN
+
+* RNN via Attention
+
+* TextHAN
+
+* Transformer
+
+* 胶囊网络
+
+  
+
+### 备注
+
+本项目收集近年来深度学习中文本分类问题的主要模型并对相关模型进行大致的解读。目的是对有一定基础的道友能快速回忆起或者了解相关模型的大致结构，能对当前的研究或工作提供一个抛砖引玉的作用，同时可以让刚进入该领域的道友能对历年来的工作有个大概的了解，对深入学习提供一盏指路灯。也非常欢迎对相关论文非常熟悉的道友提出宝贵的意见。
+
+
+
+### 后续
+
+本项目会持续更新关于文本分类实用的最新论文的解析，后续工作还会上传实验过的相关代码。
