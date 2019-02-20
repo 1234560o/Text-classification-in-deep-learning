@@ -7,11 +7,7 @@
 
 * TextRNN
 
-* ResCNN
-
 * TextRCNN
-
-* RNN via Attention
 
 * TextHAN
 
